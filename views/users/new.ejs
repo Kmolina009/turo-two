@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Add New User Profile</h1>
+<form action="/users" method="POST">
+    <div>
+            <label >First Name
+                    <input type="text" name="firstName">
+                </label>
+    </div>
+    <div>
+            <label>Last Name
+                    <input type="text" name="lastName">
+                </label>
+    </div>
+    <div>
+            <label>Age
+                    <input type="number" name="age" min="21 max='99'">
+                </label>
+    </div>
+    <div>
+            <label>Location
+                    <select name="location" id="">
+                            <option value="AUS">AUS</option>
+                            <option value="DAL">DAL</option>
+                    </select>
+                </label>
+    </div>
+    <div>
+            <label for="">Transmission
+                    <select name="" id="">
+                        <option value="AUTO">AUTO</option>
+                        <option value="MANUAL">MANUAL</option>
+                <option value="BOTH">BOTH</option>
+            </select>
+        </label>
+    </div>
+   
+    
+   
+    
+    
+</form>
+</body>
+</html>
