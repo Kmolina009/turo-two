@@ -2,7 +2,7 @@
 
 This is our attempt at creating a turo clone using Node.js, Express.js, and MongoDB using the Mongoose ODM
 
-#### What is Turo?
+#### What is Turo? 
 
 Simply put, Turo is the Air BnB for your car. Live in the city? Don't drive as much? 
 
