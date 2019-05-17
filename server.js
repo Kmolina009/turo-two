@@ -3,6 +3,7 @@ const port = 3000;
 const app = express();
 const indexRouter = require('./routes/index');
 const path = require('path');
+require("./config/database");
 
 
 

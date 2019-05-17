@@ -20,3 +20,7 @@ Rent out your car to someone else and let them put all the dings, scratches, and
 - [ ] As a user I should be able to click on "create profile" and navigate to a page with a form that allows me to input personal data
 - [ ] As a user I should be able to click on "Add Listing" and navigate to a page with a form that allows me to input data about my car
 - [ ] As a user I should be able to
+
+### Images and Notes
+
+![notes](./notes.png)
